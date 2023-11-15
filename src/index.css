@@ -413,3 +413,12 @@ ol {
     margin: 0.5rem 0;
   }
 }
+
+@media (max-width: 430px){
+  #game-board button {
+    width: 4rem;
+    height: 4rem;
+    font-size: 2rem;
+    margin: 0rem; 
+  }
+}
